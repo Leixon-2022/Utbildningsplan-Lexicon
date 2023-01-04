@@ -51,7 +51,7 @@ Innehåll
 
 - 1. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- 1. [](https://www.w3schools.com/)
+- 1. [W3SCHOOL](https://www.w3schools.com)
 
 - DOM-interaktion ( skapa, uppdatera, ta bort )
 
